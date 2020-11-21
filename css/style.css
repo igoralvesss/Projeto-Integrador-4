@@ -417,3 +417,9 @@ hr.divider {
   }
 
 }
+
+@media (max-width: 485px) {
+  .dica-img {
+    width: 300px;
+  }
+}
